@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+.permicao{
+    margin: 15px auto;
+    width: 350px;
+    margin-top: 50px;
+}
+.cond{
+    margin: 15px auto;
+    width: 350px;
+    margin-top: 50px;
+
+}
+button{
+    margin: 20px;
+    padding: 5px;
+    border-radius: 10px 0 10px 0;
+    background-color: aqua;
+    color: #ea0505;
+}
+li{
+    line-height:30px ;
+}
+h3{
+    color: red;
+}
